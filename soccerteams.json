@@ -8,7 +8,7 @@
             "TeamLocation": "Madrid, Spain",
             "HeadCoach": "Zinedine Zidane",
             "Captain": "Sergio Ramos",
-            "TeamImage": "",
+            "TeamImage": "https://raw.githubusercontent.com/rcanedop/JSONProjectsIT315/master/realmadrid.jpg",
             "TeamWebsite": "https://www.realmadrid.com/en",
             "TeamTrophies": "European Cups (13x), FIFA Club World Cups (7x), The Best Club of the 20th Century FIFA Trophy (1x), European Super Cups (4x), UEFA Cups (2x), National Leagues (34x), Spanish Cups (19x), Spanish Super Cups (11x), League Cup (1x), Small World Cups (2x), Latin Cups (2x), Regional Championship (18x)"
         },
