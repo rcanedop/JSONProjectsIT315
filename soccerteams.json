@@ -8,13 +8,57 @@
             "TeamLocation": "Madrid, Spain",
             "HeadCoach": "Zinedine Zidane",
             "Captain": "Sergio Ramos",
-            "TeamImage": "";
+            "TeamImage": "",
             "TeamWebsite": "https://www.realmadrid.com/en",
-            "TeamTrophies": "European Cups (13x), FIFA Club World Cups (7x),
-            The Best Club of the 20th Century FIFA Trophy (1x), European Super Cups (4x),
-            UEFA Cups (2x), National Leagues (34x), Spanish Cups (19x),
-            Spanish Super Cups (11x), League Cup (1x), Small World Cups (2x),
-            Latin Cups (2x), Regional Championship (18x)"
+            "TeamTrophies": "European Cups (13x), FIFA Club World Cups (7x), The Best Club of the 20th Century FIFA Trophy (1x), European Super Cups (4x), UEFA Cups (2x), National Leagues (34x), Spanish Cups (19x), Spanish Super Cups (11x), League Cup (1x), Small World Cups (2x), Latin Cups (2x), Regional Championship (18x)"
         },
+        {
+            "TeamName": "Bayern Munich",
+            "StadiumName": "Allianz Arena",
+            "TeamLeague": "Bundesliga",
+            "YearFounded": 1900,
+            "TeamLocation": "Munich, Germany",
+            "HeadCoach": "Hans-Dieter Flick",
+            "Captain": "Joshua Kimmich",
+            "TeamImage": "",
+            "TeamWebsite": "https://fcbayern.com/en",
+            "TeamTrophies": "German Championship (30x), DFB German Cup (20x), German Supercup (9x), League Cup (6x), Champions League (6x), UEFA Cup (1x), UEFA Cup Winners' Cup (1x), Intercontinental Cup (2x), FIFA Club World Cup (1x), UEFA Supercup (2x)"
+        },
+        {
+            "TeamName": "Liverpool",
+            "StadiumName": "Anfield",
+            "TeamLeague": "Premier League",
+            "YearFounded": 1892,
+            "TeamLocation": "Liverpool, United Kingdom",
+            "HeadCoach": "Jürgen Klopp",
+            "Captain": "Jordan Henderson",
+            "TeamImage": "",
+            "TeamWebsite": "https://www.liverpoolfc.com",
+            "TeamTrophies": "League Titles (19x), European Cups (6x), FIFA Club World Cup (1x), FA Cups (7x), League Cups (8x), UEFA Cups (3x), UEFA Super Cups (4x), Charity/Community Shields (15x), FA Youth Cups (4x)"
+        },
+        {
+            "TeamName": "Juventus",
+            "StadiumName": "Allianz Stadium",
+            "TeamLeague": "Serie A",
+            "YearFounded": 1897,
+            "TeamLocation": "Turin, Italy",
+            "HeadCoach": "Andrea Pirlo",
+            "Captain": "Giorgio Chiellini",
+            "TeamImage": "",
+            "TeamWebsite": "https://www.juventus.com/en/",
+            "TeamTrophies": "Scudetto (34x), European Champions Clubs' Cup - UEFA Champions League (2x), Coppa Italia (13x), Intercontinental Cup (2x), UEFA Cup (3x), UEFA Super Cup (2x), UEFA Cup Winners' Cup (1x), Intertoto Cup (1x), Italian Super Cup (9x)"
+        },
+        {
+            "TeamName": "Paris Saint-Germain",
+            "StadiumName": "Le Parc des Princes",
+            "TeamLeague": "France Ligue 1",
+            "YearFounded": 1970,
+            "TeamLocation": "Paris, France",
+            "HeadCoach": "Mauricio Pochettino",
+            "Captain": "Marquinhos",
+            "TeamImage": "",
+            "TeamWebsite": "https://en.psg.fr",
+            "TeamTrophies": "Ligue 1 (9x), French Cup (13x), French League Cup (9x), Champions Trophy (10x), UEFA Cup Winners' Cup (1x)"
+        }
     ]
 }
