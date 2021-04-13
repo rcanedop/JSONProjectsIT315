@@ -20,7 +20,7 @@
             "TeamLocation": "Munich, Germany",
             "HeadCoach": "Hans-Dieter Flick",
             "Captain": "Joshua Kimmich",
-            "TeamImage": "",
+            "TeamImage": "https://raw.githubusercontent.com/rcanedop/JSONProjectsIT315/master/bayernmunich.jpeg",
             "TeamWebsite": "https://fcbayern.com/en",
             "TeamTrophies": "German Championship (30x), DFB German Cup (20x), German Supercup (9x), League Cup (6x), Champions League (6x), UEFA Cup (1x), UEFA Cup Winners' Cup (1x), Intercontinental Cup (2x), FIFA Club World Cup (1x), UEFA Supercup (2x)"
         },
@@ -32,7 +32,7 @@
             "TeamLocation": "Liverpool, United Kingdom",
             "HeadCoach": "Jürgen Klopp",
             "Captain": "Jordan Henderson",
-            "TeamImage": "",
+            "TeamImage": "https://raw.githubusercontent.com/rcanedop/JSONProjectsIT315/master/liverpool.jpg",
             "TeamWebsite": "https://www.liverpoolfc.com",
             "TeamTrophies": "League Titles (19x), European Cups (6x), FIFA Club World Cup (1x), FA Cups (7x), League Cups (8x), UEFA Cups (3x), UEFA Super Cups (4x), Charity/Community Shields (15x), FA Youth Cups (4x)"
         },
@@ -44,7 +44,7 @@
             "TeamLocation": "Turin, Italy",
             "HeadCoach": "Andrea Pirlo",
             "Captain": "Giorgio Chiellini",
-            "TeamImage": "",
+            "TeamImage": "https://raw.githubusercontent.com/rcanedop/JSONProjectsIT315/master/juven.png",
             "TeamWebsite": "https://www.juventus.com/en/",
             "TeamTrophies": "Scudetto (34x), European Champions Clubs' Cup - UEFA Champions League (2x), Coppa Italia (13x), Intercontinental Cup (2x), UEFA Cup (3x), UEFA Super Cup (2x), UEFA Cup Winners' Cup (1x), Intertoto Cup (1x), Italian Super Cup (9x)"
         },
@@ -56,7 +56,7 @@
             "TeamLocation": "Paris, France",
             "HeadCoach": "Mauricio Pochettino",
             "Captain": "Marquinhos",
-            "TeamImage": "",
+            "TeamImage": "https://raw.githubusercontent.com/rcanedop/JSONProjectsIT315/master/psg.jpg",
             "TeamWebsite": "https://en.psg.fr",
             "TeamTrophies": "Ligue 1 (9x), French Cup (13x), French League Cup (9x), Champions Trophy (10x), UEFA Cup Winners' Cup (1x)"
         }
